@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @ashiqkmuhammed16
+- 👀 I’m interested in Full stack developer (Laravel, React Js, React Native) 
+- 🌱 I’m currently learning Optimization in Laravel
